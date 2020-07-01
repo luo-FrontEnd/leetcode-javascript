@@ -4,10 +4,12 @@
 - 分治法
 - 动态规划
 - 贪心算法
+...
 
 #### 常用的算法实现方法
 - 迭代
 - 递归
+...
 
 #### 算法的知识点
 - [1、算法的复杂度分析](https://github.com/luo-FrontEnd/leetcode-javascript/issues/10)
