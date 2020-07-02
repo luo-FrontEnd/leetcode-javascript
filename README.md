@@ -16,6 +16,8 @@
 #### 算法的知识点
 - [1、算法的复杂度分析](https://github.com/luo-FrontEnd/leetcode-javascript/issues/10)
 
+- [2、第一种算法--排序](https://github.com/luo-FrontEnd/leetcode-javascript/issues/11)
+
 
 ---
 
